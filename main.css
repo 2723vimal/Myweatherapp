@@ -57,18 +57,14 @@
     }
     
     tr th {
-        border-radius :10px;
-      border: 1px solid wheat;
+       
     }
     td {
       
-      border: 1px solid wheat;
     }
   }
 
-  ::-webkit-scrollbar {
-    display: none;
-}
+ 
 @keyframes veer {
   0%{
     
