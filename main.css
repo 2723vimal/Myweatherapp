@@ -57,12 +57,11 @@
     }
     
     tr th {
-      color: white;
-
+        border-radius :10px;
       border: 1px solid wheat;
     }
     td {
-      color: white;
+      
       border: 1px solid wheat;
     }
   }
